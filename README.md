@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laksh3002&label=Profile%20views&color=0e75b6&style=flat" alt="laksh3002" /> </p>
 
-- 🔭 I’m currently working on **Airline Reservation System using Java**.
+- 🔭 I’m currently working on **Cafe Management System using Java Swing and JDBC**.
 
 - 🌱 I’m currently learning **Firebase database.**
 
