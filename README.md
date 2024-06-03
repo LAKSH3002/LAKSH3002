@@ -5,7 +5,7 @@
 
 - 🔭 I Have finished working on **Food Company App using Flutter, dart, firebase, google dialogflow, and maps**.
 
-- - 🔭 I’m currently working on **News App using Flutter and Firebase**.
+- 🔭 I’m currently working on **News App using Flutter and Firebase**.
 
 - 🌱 I’m currently learning **Flask**
 
