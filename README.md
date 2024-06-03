@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Laksh Doshi</h1>
-<h3 align="center">A passionate web frontend and flutter developer from India.</h3>
+<h3 align="center">A passionate flutter App developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laksh3002&label=Profile%20views&color=0e75b6&style=flat" alt="laksh3002" /> </p>
 
-- 🔭 I’m currently working on **Food Company App using Flutter, dart, firebase, google dialogflow, and maps**.
+- 🔭 I Have finished working on **Food Company App using Flutter, dart, firebase, google dialogflow, and maps**.
 
-- 🌱 I’m currently learning **Firebase database.**
+- - 🔭 I’m currently working on **News App using Flutter and Firebase**.
 
-- 💬 Ask me about **Android, flutter and Java programming language.**
+- 🌱 I’m currently learning **Flask**
+
+- 💬 Ask me about **Android, flutter, dart, and Java programming language.**
 
 - 📫 How to reach me **lakshd1999@gmail.com**
 
