@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Android, flutter, dart, and Java programming language.**
 
-- 📫 How to reach me **lakshd1999@gmail.com**
+- 📫 How to reach me **doshilaksh3002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
