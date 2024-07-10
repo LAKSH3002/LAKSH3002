@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **News App using Flutter and Firebase**.
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Node js**
 
 - 💬 Ask me about **Android, flutter, dart, and Java programming language.**
 
