@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laksh3002&label=Profile%20views&color=0e75b6&style=flat" alt="laksh3002" /> </p>
 
-- 🔭 I Have finished working on **Food Company App using Flutter, dart, firebase, google dialogflow, and maps**.
+- 🔭 I'm working on the feature of Billing in a **Food Company App using Flutter, dart, firebase, google dialogflow**.
 
-- 🔭 I’m currently working on **News App using Flutter and Firebase**.
+- 🔭 I’m currently working on **Tours And Travels website using ReactJS**.
 
 - 🌱 I’m currently learning **Node js**
 
-- 💬 Ask me about **Android, flutter, dart, and Java programming language.**
+- 💬 Ask me about **flutter, dart, and Java programming language.**
 
 - 📫 How to reach me **doshilaksh3002@gmail.com**
 
