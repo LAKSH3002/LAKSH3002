@@ -5,13 +5,11 @@
 
 - 🔭 I'm working on the Tours and Travels Website using a **Recact JS and MongoDb**.
 
-- 🔭 I’m currently working on **Tours And Travels website using ReactJS**.
-
 - 🌱 I’m currently learning **Node js**
 
-- 💬 Ask me about **flutter, dart, and Java programming language.**
+- 💬 Ask me about **flutter, ReactJS**
 
-- 📫 How to reach me **doshilaksh3002@gmail.com**
+- 📫 To reach me Email: **doshilaksh3002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
