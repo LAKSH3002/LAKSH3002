@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laksh3002&label=Profile%20views&color=0e75b6&style=flat" alt="laksh3002" /> </p>
 
-- 🔭 I'm working on the feature of Billing in a **Food Company App using Flutter, dart, firebase, google dialogflow**.
+- 🔭 I'm working on the Tours and Travels Website using a **Recact JS and MongoDb**.
 
 - 🔭 I’m currently working on **Tours And Travels website using ReactJS**.
 
