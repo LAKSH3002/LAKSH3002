@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **flutter, ReactJS**
 
-- 📫 To reach me Email: **doshilaksh3002@gmail.com**
+- 📫 To reach me Email me at: **doshilaksh3002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
