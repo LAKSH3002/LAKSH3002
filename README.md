@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laksh3002&label=Profile%20views&color=0e75b6&style=flat" alt="laksh3002" /> </p>
 
-- 🔭 I'm working on the car recommendation Website using a **Recact JS and MongoDb**.
+- 🔭 I'm working on the car recommendation Website using **React JS and MongoDb**.
 
 - 🌱 I’m currently learning **Data analytics using python**
 
