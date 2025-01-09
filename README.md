@@ -5,7 +5,7 @@
 
 - 🔭 I'm working on the car recommendation Website using **React JS and MongoDb**.
 
-- 🌱 I’m currently learning **Data analytics using python**
+- 🌱 I’m currently learning **API creation and integration in websites and applications**
 
 - 💬 Ask me about **flutter, ReactJS**
 
