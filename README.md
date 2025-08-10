@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laksh3002&label=Profile%20views&color=0e75b6&style=flat" alt="laksh3002" /> </p>
 
-- 🔭 I'm working on a project Titled: Airline Delay Analysis using **Python, SQL and Power BI**.
+- 🔭 I'm working on a project Titled: Airline Passenger Analytics using **Python, SQL and Power BI**.
 
 - 🌱 I’m currently learning **Data Integration, Analytics, Power BI**
 
