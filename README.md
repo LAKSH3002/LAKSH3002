@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Laksh Doshi</h1>
-<h3 align="center">An IT Engineer from Mumbai, India.</h3>
+<h3 align="center">An IT Engineer from Mumbai, India. An Aspiring Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laksh3002&label=Profile%20views&color=0e75b6&style=flat" alt="laksh3002" /> </p>
 
-- 🔭 I'm working on the car recommendation Website using **React JS and MongoDb**.
+- 🔭 I'm working on a project Titled: Airline Delay Analysis using **Python, SQL and Power BI**.
 
-- 🌱 I’m currently learning **API creation and integration in websites and applications**
+- 🌱 I’m currently learning **Data Integration, Analytics, Power BI**
 
-- 💬 Ask me about **flutter, ReactJS**
+- 💬 Ask me about **flutter, SQL, Power BI, API and Data Science**
 
 - 📫 To reach me Email me at: **doshilaksh3002@gmail.com**
 
