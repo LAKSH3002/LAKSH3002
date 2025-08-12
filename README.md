@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Integration, Analytics, Power BI**
 
-- 💬 Ask me about **flutter, SQL, Power BI, API and Data Science**
+- 💬 Ask me about **Flutter, SQL, Power BI, API and Data Science**
 
 - 📫 To reach me Email me at: **doshilaksh3002@gmail.com**
 
