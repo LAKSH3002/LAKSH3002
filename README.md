@@ -5,7 +5,7 @@
 
 - 🔭 I'm working on a project Titled: Airline Passenger Analytics using **Python, SQL and Power BI**.
 
-- 🌱 I’m currently learning **Data Integration, Analytics, Power BI**
+- 🌱 I’m currently learning **Data Analytics, Power BI & Web Scraping using Beautiful Soup**
 
 - 💬 Ask me about **Flutter, SQL, Power BI, API and Data Science**
 
