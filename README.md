@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Laksh Doshi</h1>
-<h3 align="center">An IT Engineer Graduated from Mumbai, India. An Aspiring Data Analyst</h3>
+<h3 align="center">An IT Engineer Graduated from Mumbai, and residing in Bangalore India. An Aspiring Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laksh3002&label=Profile%20views&color=0e75b6&style=flat" alt="laksh3002" /> </p>
 
-- 🔭 I'm working on a project Titled: Airline Passenger Analytics using **Python, SQL and Power BI**.
+- 🔭 I'm working on a project Titled: Real estate market insights using **Python Pandas, Matplotlib, SQL and Power BI**.
 
-- 🌱 I’m currently learning **Data Analytics, Power BI & Web Scraping using Beautiful Soup**
+- 🌱 I believe I have become really good with **Data Analytics, Power BI & Web Scraping using Beautiful Soup, Python, SQL and Mircrosoft Excel**
 
 - 💬 Ask me about **Flutter, SQL, Power BI, API and Data Science**
 
