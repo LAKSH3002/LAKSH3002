@@ -7,7 +7,7 @@
 
 - 🌱 Tools for Data Analytics completed with hands on Experience: **Power BI, Web Scraping using Beautiful Soup, Python, SQL and Mircrosoft Excel**
 
-- 💬 Tools in progress: Amazon Web Services (AWS) and Apache Spark.
+- 💬 Tools in progress: **Amazon Web Services (AWS) and Apache Spark.**
 
 - 💬 Ask me about **Data Processing, Big Data Collection, Data Science and Also about Mobile App Development**
 
