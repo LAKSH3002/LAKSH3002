@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laksh3002&label=Profile%20views&color=0e75b6&style=flat" alt="laksh3002" /> </p>
 
-- 🔭 I'm working on a project Titled: Retail Sales Analytics + Customer churn prediction using **Python Pandas, Matplotlib, SQL and Power BI**.
+- 🔭 I'm working on a project Titled: Retail Sales Analytics + Customer churn prediction using **Jupyterlab, Python Pandas, Matplotlib, SQL and Power BI**.
 
-- 🌱 I believe I have become really good with **Data Analytics, Power BI & Web Scraping using Beautiful Soup, Python, SQL and Mircrosoft Excel**
+- 🌱 Tools for Data Analytics completed with hands on Experience: **Power BI, Web Scraping using Beautiful Soup, Python, SQL and Mircrosoft Excel**
 
-- 💬 Ask me about **Flutter, SQL, Power BI, API and Data Science**
+- 💬 Tools in progress: Amazon Web Services (AWS) and Apache Spark.
 
-- 📫 To reach me Email me at: **doshilaksh3002@gmail.com**
+- 💬 Ask me about **Data Processing, Big Data Collection, Data Science and Also about Mobile App Development**
+
+- 📫 To reach me Email me at: **lakshdosh04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
