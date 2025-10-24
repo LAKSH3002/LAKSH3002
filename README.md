@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laksh3002&label=Profile%20views&color=0e75b6&style=flat" alt="laksh3002" /> </p>
 
-- 🔭 I'm working on a project Titled: Retail Sales Analytics + Customer churn prediction using **Jupyterlab, Python Pandas, Matplotlib, SQL and Power BI**.
+- 🔭 I'm working on a project Titled: Legal Ally - An AI System that would translate complex court judgements and constitution articles into simpler form using **Beautiful Soup, JupyterLab, Python Pandas, DataBricks, VS code, Postman and Google Cloud Platform**.
 
 - 🌱 Tools for Data Analytics completed with hands on Experience: **Power BI, Web Scraping using Beautiful Soup, Python, SQL and Mircrosoft Excel**
 
-- 💬 Tools in progress: **Amazon Web Services (AWS) and Apache Spark.**
+- 💬 Tools in progress: **Amazon Web Services (AWS) and DataBricks.**
 
 - 💬 Ask me about **Data Processing, Big Data Collection, Data Science and Also about Mobile App Development**
 
